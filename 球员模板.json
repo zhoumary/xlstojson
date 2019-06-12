@@ -1,0 +1,283 @@
+[
+  {
+    "aCols": [
+      {
+        "sName": "青训中心",
+        "sTechName": ""
+      },
+      {
+        "sName": "名字",
+        "sTechName": ""
+      },
+      {
+        "sName": "姓氏",
+        "sTechName": ""
+      },
+      {
+        "sName": "球衣名字",
+        "sTechName": ""
+      },
+      {
+        "sName": "证件类型",
+        "sTechName": ""
+      },
+      {
+        "sName": "证件号码",
+        "sTechName": ""
+      },
+      {
+        "sName": "出生日期",
+        "sTechName": ""
+      },
+      {
+        "sName": "性别",
+        "sTechName": ""
+      },
+      {
+        "sName": "出生国家/地区",
+        "sTechName": ""
+      },
+      {
+        "sName": "国籍",
+        "sTechName": ""
+      },
+      {
+        "sName": "第二国籍",
+        "sTechName": ""
+      },
+      {
+        "sName": "身高（cm）",
+        "sTechName": ""
+      },
+      {
+        "sName": "体重（kg）",
+        "sTechName": ""
+      },
+      {
+        "sName": "惯用脚",
+        "sTechName": ""
+      },
+      {
+        "sName": "站立腿",
+        "sTechName": ""
+      },
+      {
+        "sName": "球鞋尺寸",
+        "sTechName": ""
+      },
+      {
+        "sName": "球衣尺寸",
+        "sTechName": ""
+      },
+      {
+        "sName": "短裤尺寸",
+        "sTechName": ""
+      },
+      {
+        "sName": "最高学历",
+        "sTechName": ""
+      },
+      {
+        "sName": "教育背景",
+        "sTechName": ""
+      },
+      {
+        "sName": "教育目标",
+        "sTechName": ""
+      },
+      {
+        "sName": "别名",
+        "sTechName": ""
+      },
+      {
+        "sName": "球员许可",
+        "sTechName": ""
+      },
+      {
+        "sName": "球队",
+        "sTechName": ""
+      }
+    ],
+    "sSheetName": "基本信息"
+  },
+  {
+    "aCols": [
+      {
+        "sName": "名字",
+        "sTechName": ""
+      },
+      {
+        "sName": "证件类型",
+        "sTechName": ""
+      },
+      {
+        "sName": "证件号码",
+        "sTechName": ""
+      },
+      {
+        "sName": "球队",
+        "sTechName": ""
+      },
+      {
+        "sName": "领域",
+        "sTechName": ""
+      },
+      {
+        "sName": "角色",
+        "sTechName": ""
+      },
+      {
+        "sName": "球衣号码",
+        "sTechName": ""
+      },
+      {
+        "sName": "生效日期",
+        "sTechName": ""
+      },
+      {
+        "sName": "到期日期",
+        "sTechName": ""
+      }
+    ],
+    "sSheetName": "分配"
+  },
+  {
+    "aCols": [
+      {
+        "sName": "名字",
+        "sTechName": ""
+      },
+      {
+        "sName": "证件类型",
+        "sTechName": ""
+      },
+      {
+        "sName": "证件号码",
+        "sTechName": ""
+      },
+      {
+        "sName": "渠道",
+        "sTechName": ""
+      },
+      {
+        "sName": "是否主要",
+        "sTechName": ""
+      },
+      {
+        "sName": "类型（私人、工作等）",
+        "sTechName": ""
+      },
+      {
+        "sName": "内容（电子邮件、电话号码、社交媒体号等）",
+        "sTechName": ""
+      }
+    ],
+    "sSheetName": "社交信息"
+  },
+  {
+    "aCols": [
+      {
+        "sName": "名字",
+        "sTechName": ""
+      },
+      {
+        "sName": "证件类型",
+        "sTechName": ""
+      },
+      {
+        "sName": "证件号码",
+        "sTechName": ""
+      },
+      {
+        "sName": "地址类型",
+        "sTechName": ""
+      },
+      {
+        "sName": "街道",
+        "sTechName": ""
+      },
+      {
+        "sName": "门牌号",
+        "sTechName": ""
+      },
+      {
+        "sName": "邮政编码",
+        "sTechName": ""
+      },
+      {
+        "sName": "城市",
+        "sTechName": ""
+      },
+      {
+        "sName": "国家/地区",
+        "sTechName": ""
+      },
+      {
+        "sName": "主要地址",
+        "sTechName": ""
+      }
+    ],
+    "sSheetName": "地址"
+  },
+  {
+    "aCols": [
+      {
+        "sName": "名字",
+        "sTechName": ""
+      },
+      {
+        "sName": "证件类型",
+        "sTechName": ""
+      },
+      {
+        "sName": "证件号码",
+        "sTechName": ""
+      },
+      {
+        "sName": "国籍",
+        "sTechName": ""
+      },
+      {
+        "sName": "护照号",
+        "sTechName": ""
+      },
+      {
+        "sName": "从",
+        "sTechName": ""
+      },
+      {
+        "sName": "到",
+        "sTechName": ""
+      },
+      {
+        "sName": "签发机构",
+        "sTechName": ""
+      },
+      {
+        "sName": "备注",
+        "sTechName": ""
+      },
+      {
+        "sName": "签证国家/地区",
+        "sTechName": ""
+      },
+      {
+        "sName": "签证ID",
+        "sTechName": ""
+      },
+      {
+        "sName": "签证类型",
+        "sTechName": ""
+      },
+      {
+        "sName": "签发日期",
+        "sTechName": ""
+      },
+      {
+        "sName": "到期日",
+        "sTechName": ""
+      }
+    ],
+    "sSheetName": "护照"
+  }
+]
